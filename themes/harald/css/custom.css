@@ -1,0 +1,112 @@
+.brand{
+	color: #FF7900;
+}
+
+tr:hover{
+	background-color: #D9EDF7;
+}
+
+.red{
+	color: #f00;
+}
+
+.borderless td,
+.borderless tr{
+	border-top: 0;
+}
+
+.borderless tr:hover{
+	background-color: #fff;
+}
+
+table.table-view tr:hover{
+	background-color: #fff;
+}
+table.table-view td{
+	border: 0;
+}
+
+td.text-right{
+	text-align: right;
+}
+
+a.delete-button{
+	pointer-events: none;
+	cursor: default;
+	display: none;
+}
+
+table.nohover:hover tr{
+	background-color: #fff;
+}
+
+.mandatory {
+	color: #f29;
+}
+
+.add_campaign_table td, .add_campaign_table th{
+	text-align: center;
+}
+
+.inline {
+	display: inline;
+}
+
+p.img_block {
+	text-align: center;
+}
+
+input.week_number {
+    width: 120px;
+}
+
+#additional_content input[type="number"] {
+	width: 90px;
+}
+th.week_num {
+    padding: 0 75px;
+}
+th.dim {
+    padding: 0 80px;
+}
+
+#additional_content .btn-custom {
+	margin-top: -10px;
+}
+
+#additional_content .error{
+	border: 1px solid red !important;
+}
+.table th {
+	text-align: center;
+	vertical-align: middle
+}
+.table td {
+	text-align: center;
+}
+.table td {
+	text-align: center;
+	vertical-align: middle
+}
+
+.small-tr {
+	font-size: 10px;
+	text-align: center;
+}
+
+td.td_width {
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+.campaign_edit input{
+	width: 40px;
+}
+
+.small_input {
+	width: 50px;
+}
+
+.checkout_block {
+	margin-bottom: 50px;
+}
